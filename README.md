@@ -1,5 +1,5 @@
 ## Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
-## Ex No: 01    
+## Ex No: 04   
 ## Design & Implementation of 6T SRAM using Cadence EDA Tools   
 
 ## Aim:
